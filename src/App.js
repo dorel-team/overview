@@ -20,6 +20,7 @@ class App extends Component
         <Button variant="light">Light</Button>
         <Button variant="dark">Dark</Button>
         <Button variant="link">Link</Button>
+        adaug si eu ceva 
       </ButtonToolbar>
     );
   }
